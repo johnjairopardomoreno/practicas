@@ -1,0 +1,3 @@
+- [x] Proyecto Node.js 'hola-mundo' creado con index.js y package.json.
+- [ ] Verificar que el archivo copilot-instructions.md existe en .github.
+- [ ] README.md pendiente de crear.
